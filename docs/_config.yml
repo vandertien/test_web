@@ -23,7 +23,4 @@ navigation:
   - name: Readme
     link: ./index.html
     sublist:
-      - name: Image
-        link: ./index.html#small-image
-  - name: Another Page
-    link: ./another-page.html
+      - name: What happen if I changed this
